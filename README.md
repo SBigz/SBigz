@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" height="500" alt="SBigz" src="./right.png"/>
+<img align="right" width="400" height="500" alt="SBigz" src="./right.png" style="padding-top: 100px"/>
 
 <h2> / about me /</h2>
   
