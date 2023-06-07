@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1b,20:565a75,40:c6b7be,60:c6b7be,80:565a75,100:0f0f1b)
+
 <p align = center ><img src="./banner.png"> </p>
 
 <div>
@@ -48,11 +49,10 @@
   <a href="https://www.deezer.com/fr/artist/113167382" target="_blank"><img src = "https://img.shields.io/badge/Deezer-black?style=for-the-badge&logo=deezer&logoColor=blue" alt = "deezer" /></a>
 
 </br>
-</br>
-
 </div>
 
 ---
+
 <img align="right" src="https://komarev.com/ghpvc/?username=SBigz&label=Visitors_👀&color=lightgray&style=flat-square" alt="SBigz" />
 
 <a href="https://www.linkedin.com/company/93264941/" target="_blank"><img src="https://img.shields.io/badge/-CodeSacha-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
