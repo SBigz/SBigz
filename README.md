@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1b,20:565a75,40:c6b7be,60:c6b7be,80:565a75,100:0f0f1b)
+
 <p align = center ><img src="./banner.png"> </p>
 
 <div>
@@ -47,12 +48,13 @@
   <a href="https://open.spotify.com/artist/0ggEZfElbLKckqn4O5vbcP" target="_blank"><img src = "https://img.shields.io/badge/Spotify-black?style=for-the-badge&logo=spotify&logoColor=green" alt = "spotify" /></a>
   <a href="https://music.apple.com/fr/artist/sbigz/1540002649" target="_blank"><img src = "https://img.shields.io/badge/Apple_Music-black?style=for-the-badge&logo=apple-music&logoColor=fc3c44" alt = "apple" /></a>
   <a href="https://www.deezer.com/fr/artist/113167382" target="_blank"><img src = "https://img.shields.io/badge/Deezer-black?style=for-the-badge&logo=deezer&logoColor=blue" alt = "deezer" /></a>
-  
+
 </br>
 
 </div>
 
 ---
+
 <img align="right" src="https://komarev.com/ghpvc/?username=SBigz&label=Visitors_👀&color=lightgray&style=flat-square" alt="SBigz" />
 
 <a href="https://www.linkedin.com/company/93264941/" target="_blank"><img src="https://img.shields.io/badge/-CodeSacha-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
