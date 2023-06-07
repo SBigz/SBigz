@@ -2,9 +2,10 @@
 
 <div>
 
-<img align="right" width="400" height="500" alt="SBigz" src="./right.png" style="padding-top: 200px"/>
+<img align="right" width="400" height="500" alt="SBigz" src="./right.png"/>
 
 <h2> / about me /</h2>
+</br>
   
 - ⭐ currently working on **web and mobile development**
 - 💀 a lot of **private repositories**
@@ -12,6 +13,7 @@
 - 👾 love **pixel**
   
 <h2> / current skills / </h2>
+</br>
   
 - <h4> languages </h4>
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
