@@ -10,7 +10,8 @@
 </br>
 
 <h2> 〉 about me </h2>
-  
+
+- 🦾 **full stack** developer  
 - ⭐ currently working on **web and mobile development**
 - 💀 a lot of **private repositories**
 - 🕹️ a **freelance** working his way around things
