@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1b,20:565a75,40:c6b7be,60:c6b7be,80:565a75,100:0f0f1b)
 <p align = center ><img src="./banner.png"> </p>
 
 <div>
@@ -41,13 +42,20 @@
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
 - <h4> music </h4>
-  <img src = "https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt = "soundcloud" />
-  <img src = "https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt = "spotify" />
-  <img src = "https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" alt = "apple" />
-  <img src = "https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" alt = "deezer" />
+  <a href="https://www.soundcloud.com/sbigz" target="_blank"><img src = "https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt = "soundcloud" /></a>
+  <a href="https://open.spotify.com/artist/0ggEZfElbLKckqn4O5vbcP" target="_blank"><img src = "https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt = "spotify" /></a>
+  <a href="https://music.apple.com/fr/artist/sbigz/1540002649" target="_blank"><img src = "https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" alt = "apple" /></a>
+  <a href="https://www.deezer.com/fr/artist/113167382" target="_blank"><img src = "https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" alt = "deezer" /></a>
 
+</br>
 </br>
 
 </div>
 
 ---
+<img align="right" src="https://komarev.com/ghpvc/?username=SBigz&label=Visitors_👀&color=lightgray&style=flat-square" alt="SBigz" />
+
+<a href="https://www.linkedin.com/company/93264941/" target="_blank"><img src="https://img.shields.io/badge/-CodeSacha-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/sacha-bigou" target="_blank"><img src="https://img.shields.io/badge/-Sacha_Bigou-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1b,20:565a75,40:c6b7be,60:c6b7be,80:565a75,100:0f0f1b&section=footer)
