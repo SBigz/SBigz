@@ -8,7 +8,8 @@
   
 - ⭐ currently working on **web and mobile development**
 - 💀 a lot of **private repositories**
-- 👾 a **freelance** working his way around things
+- 🕹️ a **freelance** working his way around things
+- 👾 i **love** pixel
   
 <h2> / current skills / </h2>
   
