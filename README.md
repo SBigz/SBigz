@@ -2,14 +2,14 @@
 
 <div>
 
-<img align="right" width="400" alt="SBigz" src="./right.png"/>
+<img align="right" width="400" height="550" alt="SBigz" src="./right.png"/>
 
 <h2> / about me /</h2>
   
 - ⭐ currently working on **web and mobile development**
 - 💀 a lot of **private repositories**
 - 🕹️ a **freelance** working his way around things
-- 👾 i **love** pixel
+- 👾 love **pixel**
   
 <h2> / current skills / </h2>
   
@@ -29,10 +29,9 @@
   
 - <h4> designing tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
-  <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
   
-  </br></br>
+  </br>
 
   </div>
 
