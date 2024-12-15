@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1b,20:565a75,40:c6b7be,60:c6b7be,80:565a75,100:0f0f1b)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/SBigz"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <p align = center ><img src="./banner.png"> </p>
 
 <div>
